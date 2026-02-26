@@ -9,7 +9,6 @@ Estoy aprendiendo a mi propio ritmo, haciendo proyectos pequeños pero constante
 
 ## 🛠️ Tecnologías que uso o practico
 - **Godot Engine (GDScript)**
-- **HTML, CSS y JavaScript**
 - **C# (nivel inicial)**
 - **Java (aún sigo mejorando)**
 - **Linux – nivel principiante**
