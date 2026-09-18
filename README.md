@@ -13,13 +13,13 @@ Estoy aprendiendo a mi propio ritmo, haciendo proyectos pequeños pero constante
 - **Java (aún sigo mejorando)**
 - **Linux – nivel principiante**
 - **Git & GitHub**
-
+- **Python (uso como base)**
 ---
 
 ## 🎮 Proyectos en los que ando metido
-- Un **juego de plataformas 3D** en Godot.  
-- Mini proyectos **front-end** para practicar JavaScript.  
+- Practicando **Juegos** y **Mecanicas** en *Godot*.  
 - Conceptos de **pixel art**, personajes y mundos originales.
+- Proyectos sencillos en Pyhton.
 
 ---
 
